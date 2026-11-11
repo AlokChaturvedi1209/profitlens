@@ -1,0 +1,3 @@
+external_id,sku,purchased_at,quantity,unit_price,unit_cost,shipping,platform_fee,status
+ORD-001,TS-001,2026-11-01T12:00:00,2,899,300,75,117,delivered
+ORD-002,MS-002,2026-11-02T10:30:00,1,1399,450,85,91,delivered

@@ -1,0 +1,2 @@
+external_id,order_external_id,reason,refunded_amount,return_shipping,restockable
+RET-001,ORD-001,Size or fit issue,1798,80,true
